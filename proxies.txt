@@ -1,1 +1,2 @@
-
+socks5://user1:pass1@ip1:port1
+user:pass2@ip2:port2
